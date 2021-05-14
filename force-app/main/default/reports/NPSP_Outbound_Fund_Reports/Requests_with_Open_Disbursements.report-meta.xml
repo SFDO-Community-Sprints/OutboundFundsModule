@@ -37,18 +37,26 @@
     <filter>
         <criteriaItems>
             <column>Funding_Program__c.FundingRequests__r.Disbursements__r$Status__c</column>
+            <columnToColumn>false</columnToColumn>
             <isUnlocked>true</isUnlocked>
             <operator>notEqual</operator>
             <value>Paid</value>
         </criteriaItems>
         <criteriaItems>
             <column>Funding_Program__c.FundingRequests__r.Disbursements__r$Scheduled_Date__c</column>
+            <columnToColumn>false</columnToColumn>
             <isUnlocked>true</isUnlocked>
             <operator>lessOrEqual</operator>
             <value>NEXT_MONTH</value>
         </criteriaItems>
+        <language>en_US</language>
     </filter>
-    <format>Tabular</format>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Funding_Program__c.FundingRequests__r$Geographical_Area_Served__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
     <name>Requests with Open Disbursements</name>
     <params>
         <name>co</name>
@@ -57,6 +65,8 @@
     <reportType>Funding_Programs_with_Funding_Requests_with_Disbursements__c</reportType>
     <scope>organization</scope>
     <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
     <timeFrameFilter>
         <dateColumn>Funding_Program__c$CreatedDate</dateColumn>
         <interval>INTERVAL_CUSTOM</interval>

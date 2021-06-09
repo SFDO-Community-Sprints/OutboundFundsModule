@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Docket__c</fullName>
+    <externalId>false</externalId>
+    <label>Docket</label>
+    <referenceTo>Docket__c</referenceTo>
+    <relationshipLabel>Docket Roles</relationshipLabel>
+    <relationshipName>Docket_Roles_Docket</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

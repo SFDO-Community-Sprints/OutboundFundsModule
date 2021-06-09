@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role__c</fullName>
+    <externalId>false</externalId>
+    <label>Role</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Reviewer</fullName>
+                <default>false</default>
+                <label>Reviewer</label>
+            </value>
+            <value>
+                <fullName>Grants Manager</fullName>
+                <default>false</default>
+                <label>Grants Manager</label>
+            </value>
+            <value>
+                <fullName>Scribe</fullName>
+                <default>false</default>
+                <label>Scribe</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

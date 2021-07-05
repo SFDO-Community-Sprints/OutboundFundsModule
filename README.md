@@ -39,25 +39,26 @@ Alexa Adams | Team Member  |
 Mark Adcock | Team Member  |               
 Stan Reeser | Team Member  |          
 Farah Charania | Team Member  |                 
-Allison Letts | Team Member  |         
+Allison Letts | Team Member  | 
+Crystal Matthews   | Team Member   |   
+Serkan Bilgi   | Team Member   |  
 
 
-## Sprint 6/9/2021-6/10/2021
+## Sprint 6/29/2021
 
 ### Sprint Project Team
 
 Full Name            | Team Role     | Github Username                                    | Working Group 
 ------------         | ------------- | -------------                                      |-------------   
-Nick Lindberg   | Group Leader  | [Nickers3](https://github.com/Nickers3)     | 
+Bill Corkill  | Group Leader  | [wcorkill](https://github.com/wcorkill)     | 
 Shari Carlson   | Group Leader  | [sharicarlson13](https://github.com/sharicarlson13)     | 
-Crystal Matthews   | Contributor   |    [crystalmathews](https://github.com/crystalmathews)          | 
-Serkan Bilgi   | Contributor   |    [serkanbilgi](https://github.com/serkanbilgi)          | 
-Tammy Silverthorne   | Contributor   |    [tsilverthorne1](https://github.com/tsilverthorne1)          | 
+Martin Humpolec  | Contributor   |    [mhumpolec](https://github.com/mhumpolec)  | 
+Gonzalo Gómez de la Cal   | Contributor   |    [gonzalos4g](https://github.com/gonzalos4g)          | 
+Kathryn	Powell | Contributor   |    [yearofthepi](https://github.com/yearofthepi)          | 
 
 ### Project Team Accomplishments
-* Docket Manager Object Requirements and Proof of Concept
-* Finalize Reporting Workbook
-* Ammendment Reuqirements conversation
+* EMEA use cases for OFM
+* Defined Requirement and built proof of concept for Funding Program Requirement object to auto-create requirements based on Funding Program
 
 # Past Sprint Project Teams and Accomplishments
 https://github.com/SFDO-Community-Sprints/OutboundFundsModule/wiki/Past-Sprint-Summaries

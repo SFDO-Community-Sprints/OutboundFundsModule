@@ -53,41 +53,81 @@ Outbound Funds Module is vertical neutral and has use cases both in Nonprofit an
 ## Hub Group Link
 https://powerofus.force.com/s/group/0F980000000CvlMCAS/outbound-funds-module-sfdo-product
 
-# Current Project Team
+# Current Ongoing Project Team
 
 Full Name            | Team Role     | Github Username                                   
 ------------         | ------------- | -------------                                      
 Nick Lindberg   | Group Leader  | [Nickers3](https://github.com/Nickers3)  
 Shari Carlson   | Group Leader  | [sharicarlson13](https://github.com/sharicarlson13) 
 Bill Corkill   | Group Leader  | [wcorkill](https://github.com/wcorkill) 
-Gordon Lau  | Team Member/Scribe at monthly meeting  |                                               
-Emily Jakubiak  | Team Member/Documentation  |                                         
+Gordon Lau  | Team Member  |                                               
+Emily Jakubiak  | Team Member |                                         
 Junette Tan  | Team Member/QA /Data Gen Project |                                               
-Thom Behrens  | Team Member/ Developor  |                                   
+Thom Behrens  | Team Member/ Developer  |                                   
 Libby Ziemelis  | Team Member  |          
-Alexa Adams | Team Member  |                 
 Mark Adcock | Team Member  |               
 Stan Reeser | Team Member  |          
-Farah Charania | Team Member  |                 
-Allison Letts | Team Member  |         
 
+# May 2022 Sprint Details
+## Attendeess
+* Shari Carlson
+* Nick Lindberg
+* Mark Jones
+* Maida Rider
+* Judy Otto
+* Abby Morrow
+* Cheri Lovell
+* Heath Parks
 
-## Sprint 6/9/2021-6/10/2021
+## Agenda
+Documentation 
 
-### Sprint Project Team
+## Documentation Brainstorm
+1. Experience Cloud
+   * Experience site template - documentation is lacking
+     * https://powerofus.force.com/s/article/OFM-Documentation  
+     * Account you have to create is confusing
+   * Small NPs - challenge to understand experience license needs
+     * Challenge - creating access to OFM at another license level 1/year and 4/year 
+     * What license is needed? 
+   * Application process 
+     * Llama site 
+     * Grantmaker template doesn't work as promised
+     * FormAssembly, FormStack, example 
+     * Update old documentation - https://github.com/SalesforceFoundation/OutboundFundsModule/wiki#beyond-the-package 
+2. How to use specific objects 
+   * Funding Program documentation 
+     * Appears to be mandatory (but isn’t) this should be detailed
+     * How to set up
+     * Why not connected to GAU Expenditures
+     * Rollups etc.
+     * This is where a lot of questions come up when people are using for unique purposes 
+   * Requirements
+     * Requirements after receive the grant - like impact
+     * Documentation says approved or closed 
+     * Not clear that it is after grant is awarded to 
+     * How explain that Requirements can be lots of different things 
+3. Matrix of way people are using OFM
+   * There are many ways to use OFM 
+     * What Licenses we need based on way we are using
+     * Expand on this https://powerofus.force.com/s/article/OFM-Using-Outbound-Funds-Module 
+       * Example Competitive grant page
+         * What you need to do this 
+         * Case study of someone who did this 
+    * Create a Template for case Study for each kind of use
+    * License Matrix
+      * Link to Community generated doc
+      * Paid, General language - reach out for pricing
+4. Create a shorten video Walk through of OFM
 
-Full Name            | Team Role     | Github Username                                    | Working Group 
-------------         | ------------- | -------------                                      |-------------   
-Nick Lindberg   | Group Leader  | [Nickers3](https://github.com/Nickers3)     | 
-Shari Carlson   | Group Leader  | [sharicarlson13](https://github.com/sharicarlson13)     | 
-Crystal Matthews   | Contributor   |    [crystalmathews](https://github.com/crystalmathews)          | 
-Serkan Bilgi   | Contributor   |    [serkanbilgi](https://github.com/serkanbilgi)          | 
-Tammy Silverthorne   | Contributor   |    [tsilverthorne1](https://github.com/tsilverthorne1)          | 
-
-### Project Team Accomplishments
-* Docket Manager Object Requirements and Proof of Concept
-* Finalize Reporting Workbook
-* Ammendment Reuqirements conversation
+## Items worked on
+1. Matrix/Case Studies of how people are using OFM
+   * Create survey to collect case studies: https://bit.ly/ofmcasestudy 
+   * Create survey to collect issues/solutions: https://bit.ly/ofmissues
+2. Experience Cloud documentation updated
+   * Fundseeker Template: Configure Self-Reg
+3. General overview documentation updated - 
+   * OBFM Get to Know the Data Model
 
 # Past Sprint Project Teams and Accomplishments
 https://github.com/SFDO-Community-Sprints/OutboundFundsModule/wiki/Past-Sprint-Summaries
